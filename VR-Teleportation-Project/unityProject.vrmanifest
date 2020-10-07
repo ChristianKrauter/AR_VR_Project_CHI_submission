@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrteleportationproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\krautecn\\Desktop\\BA-vrnotify-test\\VR-Teleportation-Project\\VR-Teleportation-Project\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR-Teleportation-Project [Testing]"
+        }
+      }
+    }
+  ]
+}
